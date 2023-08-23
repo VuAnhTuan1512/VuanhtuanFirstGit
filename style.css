@@ -1,0 +1,18 @@
+.first-class {
+    color: chartreuse;
+    border: 1px solid red;
+}
+
+/* #firstId {
+        color: chartreuse
+    }*/
+#secondId {
+    color: aquamarine;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#thirdId {
+    font-size: 100px;
+}
